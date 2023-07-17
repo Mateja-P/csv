@@ -1,0 +1,46 @@
+title,heading,content,tokens
+HI HELLO,Hi Zdravo Cao ,"Hello, How can I help you?",30
+COMPUTER,COMPUTER WONT BOOT,"If your computer doesn't turn on, there could be several reasons for this issue. Here are a few troubleshooting steps you can try:
+
+Check the power source: Ensure that your computer is properly connected to a working power outlet. Try plugging in another device to the same outlet to verify if the outlet is functioning correctly.
+
+Power cable and adapter: Make sure the power cable is securely connected to your computer and the power adapter. If possible, try using a different power cable or adapter to eliminate the possibility of a faulty connection.
+
+Battery (if applicable): If you are using a laptop, check if the battery is charged. Connect your laptop to a power source and try turning it on without the battery. If it turns on, the battery may need to be replaced.
+
+Reset the power supply: If your computer has a built-in power supply unit (PSU), you can try resetting it. Turn off the main power switch on the back of the computer (if available), unplug the power cord, and then press and hold the power button for about 15 seconds. Reconnect the power cord and try turning on the computer again.
+
+Hardware issues: If none of the above steps work, there may be a hardware problem with your computer. It could be a faulty power supply, motherboard, or other components. In such cases, it's recommended to seek professional help or contact the manufacturer for further assistance.",200
+NETWORK,NETWORK CONNECTIVITY ISSUES,"Network connectivity problems can range from slow internet speeds to complete network failures. Troubleshooting steps may involve checking network cables, resetting routers or modems, verifying IP configurations, or diagnosing network hardware and software issues.",50
+DATA,DATA RECOVERY,"Data loss can occur due to accidental deletion, hardware failures, or malware attacks. To recover lost data, it's important to immediately stop using the affected storage device and employ data recovery tools or services. Regular backups can also help prevent data loss. ",50
+SOFTWARE,SOFTWARE COMPATIBILITY ISSUES,"Software compatibility issues arise when certain programs or applications don't work well together or with the operating system. Troubleshooting methods may include updating software versions, applying patches or compatibility modes, or seeking assistance from software vendors or forums.",50
+COMPUTER,COMPUTER NOT TURNING ON,"There are several troubleshooting steps you can try to resolve the issue. First, check if the power cable is properly plugged into the computer and the electrical outlet. Ensure that there is power in the outlet by plugging in another device. If the power source is not the problem, check the power button on your computer and make sure it's not stuck or damaged. Additionally, try a different power outlet or power cable to rule out any issues with those components. If the problem persists, it may be a hardware issue, and it's recommended to seek professional assistance.",50
+COMPUTER,COMPUTER RUNNING SLOW,"There are several reasons for a slow computer, such as insufficient RAM, too many background processes, or malware. Try closing unnecessary programs and running a malware scan.",100
+COMPUTER WIFI,CONNECT COMPUTER WITH ROUTER,"To connect a router with a computer, you can follow these steps:
+
+Turn off your computer and unplug the power cable from both the computer and the router.
+
+Locate the Ethernet ports on the back of your router. These ports are usually labeled ""LAN"" or ""Ethernet.""
+
+Take an Ethernet cable and plug one end into any of the available LAN ports on the router.
+
+Take the other end of the Ethernet cable and plug it into the Ethernet port on your computer. The Ethernet port on the computer is typically located on the back of the device.
+
+Ensure that the cable is securely plugged in on both ends.
+
+Plug in the power cable for the router and turn it on. Wait for the router to fully boot up and establish a connection.
+
+Turn on your computer and wait for it to start up.
+
+Once your computer has booted up, it should automatically detect the Ethernet connection from the router.
+
+Check the network settings on your computer to ensure that it is connected to the network. You can typically find the network settings in the Control Panel or System Preferences, depending on your operating system.
+
+Test the connection by opening a web browser and visiting a website to ensure that you have internet access.
+
+By following these steps, you should be able to successfully connect your router with your computer using an Ethernet cable.",50
+COMPUTER FREEZING,COMPUTER IS FREEZING,"Frequent freezing can be due to hardware or software issues. Try updating your drivers and running a disk cleanup. If the problem persists, consider seeking professional help.",100
+OPERATING SYSTEM,UPDATE OPERATING SYSTEM,"For Windows, go to Settings > Update & Security > Windows Update. For macOS, go to the Apple menu > System Preferences > Software Update.",100
+OS,UPDATE OS,"For Windows, go to Settings > Update & Security > Windows Update. For macOS, go to the Apple menu > System Preferences > Software Update.",50
+VIRUS,REMOVE VIRUS,Run a full system scan using a reputable antivirus program. Quarantine or remove any detected threats. Consider changing passwords for important accounts.,150
+CONNECT ROUTER WITH COMPUTER,CONNECT ROUTER WITH COMPUTER,Steps for connect your router with computer are:  1. Take the cable you got from the provider and plug it in into router 2. The cable from router should go straight into the computer 3. Check the signal on the desktop ,30
